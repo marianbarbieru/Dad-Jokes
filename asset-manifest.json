@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dad-Jokes/static/css/main.646333cf.chunk.css",
+    "main.js": "/Dad-Jokes/static/js/main.fe2ef2e6.chunk.js",
+    "main.js.map": "/Dad-Jokes/static/js/main.fe2ef2e6.chunk.js.map",
+    "runtime-main.js": "/Dad-Jokes/static/js/runtime-main.add0f485.js",
+    "runtime-main.js.map": "/Dad-Jokes/static/js/runtime-main.add0f485.js.map",
+    "static/js/2.fa116d5d.chunk.js": "/Dad-Jokes/static/js/2.fa116d5d.chunk.js",
+    "static/js/2.fa116d5d.chunk.js.map": "/Dad-Jokes/static/js/2.fa116d5d.chunk.js.map",
+    "index.html": "/Dad-Jokes/index.html",
+    "precache-manifest.995b6bdf45097be23fd5285e5a505f15.js": "/Dad-Jokes/precache-manifest.995b6bdf45097be23fd5285e5a505f15.js",
+    "service-worker.js": "/Dad-Jokes/service-worker.js",
+    "static/css/main.646333cf.chunk.css.map": "/Dad-Jokes/static/css/main.646333cf.chunk.css.map",
+    "static/js/2.fa116d5d.chunk.js.LICENSE.txt": "/Dad-Jokes/static/js/2.fa116d5d.chunk.js.LICENSE.txt",
+    "static/media/smiley.png": "/Dad-Jokes/static/media/smiley.e64a51de.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add0f485.js",
+    "static/js/2.fa116d5d.chunk.js",
+    "static/css/main.646333cf.chunk.css",
+    "static/js/main.fe2ef2e6.chunk.js"
+  ]
+}
