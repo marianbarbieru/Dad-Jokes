@@ -101,7 +101,7 @@
 		transform: translateX(0%);
 	}
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-device-width: 700px) {
 	.JokeList {
 		display: flex;
 		flex-direction: column;
@@ -147,16 +147,31 @@
 	.JokeList-list {
 		width: 100%;
 	}
-}
-@media only screen and (max-height: 530px) {
-	.JokeList-sidebar {
-		height: 22vh;
+	@media only screen and (max-device-height: 530px) {
+		.JokeList-sidebar {
+			height: 22vh;
+		}
+		.JokeList-title {
+			font-size: 1.1rem;
+		}
+		.Jokelist-btn {
+			font-size: 0.5em;
+			padding: 3px 15px;
+		}
 	}
+}
+/* @media only screen and (max-device-height: 530px) {
 	.JokeList-title {
-		font-size: 1.7rem;
+		font-size: 1.1rem;
 	}
 	.Jokelist-btn {
 		font-size: 0.5em;
 		padding: 3px 15px;
 	}
-}
+
+	@media only screen and(max-device-width:700px) {
+		.JokeList-sidebar {
+			height: 22vh;
+		}
+	}
+} */
